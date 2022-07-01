@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/** main - Smartness is the key
+/** 
+ * main - Smartness is the key
  * 
  * Return: returns 0 
  */
