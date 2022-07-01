@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /** main - Smartness is the key
  * 
- * Return: Always 0 
+ * Return: returns 0 
  */
 int main(void)
 {
