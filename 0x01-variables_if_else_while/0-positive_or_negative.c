@@ -7,7 +7,7 @@
 * main - betty style doc for function main goes there
 * Return: returns 0
 */
-int main(void);
+int main(void)
 {
 	int n;
 
