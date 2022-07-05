@@ -4,7 +4,7 @@
 
 /**
 * main - prints every number from 0 to 9
-* Returns: returns 0
+* Return: returns 0
 */
 int main(void)
 {
