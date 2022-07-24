@@ -1,13 +1,13 @@
-#include<stdio.h>
+#include <stdio.h>
 
 /**
- * main - Love the way
- * Return: returns 1
- */
+* main - useful piece of art
+* Return: returns 1
+*/
 int main(void)
 {
-		char qt[59] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
+	char qt[60] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19";
 
-			nprintf(stderr, "%s\n", qt);
-				return (1);
+		fprintf(stderr, "%s\n", qt);
+			return (1);
 }
